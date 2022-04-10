@@ -5,4 +5,5 @@ Install Tailwind postCSS Plugin from https://tailwindcss.com/docs/installation/u
 
 In terminal / powershell run the following command to start server:- npm run start
 
-![image](https://user-images.githubusercontent.com/85429112/162616978-b582edd8-1c50-4c8f-9e98-6d66ac2032f2.png)
+![2022-04-10 (13)](https://user-images.githubusercontent.com/85429112/162617283-cf2c3c88-fdd1-44f9-be3d-21dec739ad6b.png)
+
